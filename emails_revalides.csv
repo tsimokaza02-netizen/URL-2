@@ -1,0 +1,15 @@
+Prenom,Nom,Email_Original,Resultat_Original,Domaine,Serveur_MX,Catch_All,Email_Valide_Trouve,Resultat_Nouvelle_Verification,Nb_Formats_Testes,Niveau_Confiance
+Commercial,Développement,developpement.commercial@philippe.com,,philippe.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+Depoux,Philippe,philippe.depoux@lafrancaise.fr,,lafrancaise.fr,mx-mibc-fr-10.mailinblack.com,Non,,Aucun format validé par SMTP,8,Très faible
+Peteul,Luc,luc.peteul@gsf.fr,,gsf.fr,mxa-0071e002.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Da Silva,Valéry,valery.dasilva@emalec.fr,,emalec.fr,,,,Impossible (résolution MX échouée),0,Indéterminé
+Henry,Florence,florence.henry@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+KOCH,Marie Laure,marielaure.koch@union.fr,,union.fr,union-fr.mail.protection.outlook.com,Non,,Aucun format validé par SMTP,8,Très faible
+Charrey,Priscilla,priscilla.charrey@knight.net,,knight.net,mx.netidentity.com.cust.hostedemail.com,Non,,Aucun format validé par SMTP,8,Très faible
+Garlatti,Nicola,nicola.garlatti@axa.fr,,axa.fr,mxa-00181c02.gslb.pphosted.com,Non,,Aucun format validé par SMTP,8,Très faible
+Lemoine,Géraldine,geraldine.lemoine@geraldine.fr,,geraldine.fr,mx5.dataxy.fr,Non,,Aucun format validé par SMTP,8,Très faible
+Figiel,Pierre,pierre.figiel@quartus.com,,quartus.com,quartuseng.mail.protection.office365.us,Non,,Aucun format validé par SMTP,8,Très faible
+Vignon,Alexis,alexis.vignon@oykos.net,,oykos.net,smtp.google.com,Oui,,Catch-all confirmé (aucun format vérifiable par SMTP),0,Très faible
+Grundy,Guy,guy.grundy@guy.fr,,guy.fr,ns-01.bak.fr,Non,,Aucun format validé par SMTP,8,Très faible
+DECOSTER,Pierre-Charles,pierrecharles.decoster@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
+TAVEAU,Morgan,morgan.taveau@entreprise.com,,entreprise.com,,,,Impossible (résolution MX échouée),0,Indéterminé
